@@ -1,0 +1,1 @@
+m91nentdbuuse nil engstrom subject help event propagation following problem really bugging would appreciate help create two window w1 child root eventmask buttonpressmaskkeypressmask w2 child w1 donotpropagatemask buttonpressmaskkeypressmask keypres event w2 discarded buttonpres event fall w1 subwindow set w2 fyi im using xnewsolvwm something fundamentally wrong n

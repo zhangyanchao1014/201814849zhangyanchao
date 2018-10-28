@@ -1,0 +1,1 @@
+lionessoakcircaufledu subject int15h joystick slow im using int15h read joystick hideously slow something like 90 cpu time spent reading joystick thi program nothing printf joyread problem lot program trap int15h like smartdrv slow hell interface read joystick port reasonably safe fashion vium polling isnt platform clockspeed specific thank brianzex

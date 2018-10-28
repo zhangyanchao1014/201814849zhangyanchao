@@ -1,0 +1,1 @@
+jamameslabgov jerry musselman subject uart needed need find uart interface 8051 following 250k baud 8 datum bit 2 stop bit parity ability break detect irq output pin irq character received im using dalla ds2250 16 mhz 8051 clone wont break detect ive looked 6850 8251 7201 2661 etc help would appriciated
