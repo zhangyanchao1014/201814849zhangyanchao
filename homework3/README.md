@@ -1,6 +1,7 @@
 1、	实验任务
 
 （1）	测试sklearn中以下聚类算法在Tweet数据集上的聚类效果
+
 （2）	使用NMI（Normalized Mutual Information）作为评价指标
 
 2、	实验步骤
@@ -38,11 +39,19 @@
 3、	实验结果
 
   K-Means	81.66%
+  
   Affinity Propagation	76.44%
+  
   Mean-Shift	78.66%
+  
   Spectral Clustering	72.25%
+  
   Agglomerative Clustering(Ward)	80.74%
+  
   Agglomerative Clustering(Average)	75.58%
+  
   Agglomerative Clustering(Complete)	56.86%
+  
   DBSCAN	79.38%
+  
   Gaussian Mixtures	79.84%
