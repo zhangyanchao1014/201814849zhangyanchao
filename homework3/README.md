@@ -1,7 +1,10 @@
 1、	实验任务
+
 （1）	测试sklearn中以下聚类算法在Tweet数据集上的聚类效果
 （2）	使用NMI（Normalized Mutual Information）作为评价指标
+
 2、	实验步骤
+
 （1）K-Means
   class sklearn.cluster.KMeans(n_clusters=8, init=’k-means++’, n_init=10, max_iter=300, tol=0.0001, precompute_distances=’auto’, verbose=0, random_state=None, copy_x=True, n_jobs=None, algorithm=’auto’)
 
@@ -31,7 +34,9 @@
 （8）评价指标NMI
   sklearn.metrics.normalized_mutual_info_score(labels_true, labels_pred, average_method=’warn’)
   用于评价聚类算法的性能
+  
 3、	实验结果
+
   K-Means	81.66%
   Affinity Propagation	76.44%
   Mean-Shift	78.66%
